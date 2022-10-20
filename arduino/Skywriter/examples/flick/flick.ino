@@ -2,6 +2,7 @@
 //https://editor.p5js.org/jesse_harding/sketches/RwGr88C-0
 
 //requires skywriter library: https://github.com/pimoroni/skywriter-hat/tree/master/arduino
+//forked version here: https://github.com/jesse-harding/skywriter-hat
 
 //Wiring
 //Flick  to   Arduino
